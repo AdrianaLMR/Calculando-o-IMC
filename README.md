@@ -1,2 +1,2 @@
-# Hello-Word
-Minhas ideias
+# Calculando o IMC de um usuário.
+
